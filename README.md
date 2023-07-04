@@ -11,7 +11,7 @@ I started studying programming in 2022.
 So far I have studied python, kivy and SQLite.  
 I am currently studying machine learning.  
 
-## [Code written so far]
+## [About my code]
 Items stored in my private repository  
 * Calculator created with python and kivy
 * Extension conversion software created with python, kivy and SQLite
@@ -19,3 +19,7 @@ Items stored in my private repository
 * Simple image classifier created with Python and kivy
 
 Items stored in the local environment  
+* Created to improve work efficiency at previous job  
+  * I created a piece of software that converts documents stored on paper to PDF and adds a little search engine code to simplify browsing the documents.
+  * I made a software to browse the formula collection. However, it is incomplete due to the large amount of images.
+
