@@ -6,6 +6,8 @@
 ### Hi there 👋
 
 ## [About me]
+I am Japanese who is not good at English.  
+I am writing English using the translation function.  
 I love cats 🐈  
 I started studying programming in 2022.  
 So far I have studied python, kivy and SQLite.  
