@@ -14,9 +14,9 @@ I am currently studying machine learning.
 ## [About my code]
 Items stored in my private repository  
 * Calculator created with python and kivy
+* Image viewer created with python and kivy
 * Extension conversion software created with python, kivy and SQLite
-* Image viewer created with Python and kivy
-* Simple image classifier created with Python and kivy
+* Simple image classifier created with python and kivy
 
 Items stored in the local environment  
 * Created to improve work efficiency at previous job  
