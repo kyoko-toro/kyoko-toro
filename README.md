@@ -25,4 +25,5 @@ Items stored in the local environment
 
 Items currently under construction  
 * Digital scoring software with minimal functions  
+&nbsp; About installed functions  
   * 
