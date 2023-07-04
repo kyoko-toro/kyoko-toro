@@ -28,17 +28,17 @@ Items stored in the local environment
 Items currently under construction  
 * Digital scoring software with minimal functions  
 &nbsp; About installed functions  
-* Initial setting
-  * class registration  
-  * Registration of questions and points  
-  * Registration of Absentee  
-  * Extension conversion to PDF to Image  
-  * Register model answers  
-* Functions devised for grading work
-  * It is now possible to select the number of displayed items and the grading direction.  
-  * Added ability to insert comments, parentheses, etc.  
-  * About 6 colors are available for different viewpoints.  
-  * It has hold function.  
-  * Even if grading is interrupted in the middle, it can be restarted.
-  * We have prepared so that you can grade even with shortcut keys.  
+　* Initial setting
+  　* class registration  
+  　* Registration of questions and points  
+  　* Registration of Absentee  
+  　* Extension conversion to PDF to Image  
+  　* Register model answers  
+　* Functions devised for grading work
+  　* It is now possible to select the number of displayed items and the grading direction.  
+  　* Added ability to insert comments, parentheses, etc.  
+  　* About 6 colors are available for different viewpoints.  
+  　* It has hold function.  
+  　* Even if grading is interrupted in the middle, it can be restarted.
+  　* We have prepared so that you can grade even with shortcut keys.  
 
