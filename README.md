@@ -40,4 +40,6 @@ Items currently under construction
     * About 6 colors are available for different viewpoints.  
     * It has hold function.  
     * Even if grading is interrupted in the middle, it can be restarted.
-    * We have prepared so that you can grade even with shortcut keys.  
+    * We have prepared so that you can grade even with shortcut keys
+  * Functions to be installed in the future
+    * AI function that automatically grades symbol problems  
