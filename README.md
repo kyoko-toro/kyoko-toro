@@ -23,3 +23,6 @@ Items stored in the local environment
   * I created a piece of software that converts documents stored on paper to PDF and adds a little search engine code to simplify browsing the documents.
   * I made a software to browse the formula collection. However, it is incomplete due to the large amount of images.
 
+Items currently under construction  
+* Digital scoring software with minimal functions  
+  * 
