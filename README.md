@@ -14,7 +14,7 @@ So far I have studied python, kivy and SQLite.
 I am currently studying machine learning.  
 
 ## [About my code]
-Items stored in my private repository  
+Items stored in my public repository  
 * Calculator created with python and kivy
 * Image viewer created with python and kivy
 * Extension conversion software created with python, kivy and SQLite
