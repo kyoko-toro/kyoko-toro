@@ -26,7 +26,10 @@ Items stored in the local environment
   * I made a software to browse the formula collection. However, it is incomplete due to the large amount of images.
 
 Items currently under construction  
-* Digital scoring software with minimal functions  
+* Digital scoring software with minimal functions
+  [demo image]  
+  ![Alt text](%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%8E%A1%E7%82%B9%E3%83%87%E3%83%A2.gif)  
+  
 &nbsp; About installed functions
   * Initial setting
     * class registration  
