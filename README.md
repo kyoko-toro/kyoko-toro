@@ -15,10 +15,10 @@ I am currently studying machine learning.
 
 ## [About my code]
 Items stored in my public repository  
-* Calculator created with python and kivy
-* Image viewer created with python and kivy
-* Extension conversion software created with python, kivy and SQLite
-* Simple image classifier created with python and kivy
+* Calculator created with python and kivy (https://github.com/kyoko-toro/calculator)
+* Image viewer created with python and kivy (https://github.com/kyoko-toro/imageviewer)
+* Extension conversion software created with python, kivy and SQLite (https://github.com/kyoko-toro/extconverter)
+* Simple image classifier created with python and kivy (https://github.com/kyoko-toro/image_classification)
 
 Items stored in the local environment  
 * Created to improve work efficiency at previous job  
