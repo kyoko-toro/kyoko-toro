@@ -28,8 +28,7 @@ Items stored in the local environment
 Items currently under construction  
 * Digital scoring software with minimal functions
   [demo image]  
-  ![Alt text]
-  (%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%8E%A1%E7%82%B9%E3%83%87%E3%83%A2.gif)  
+ ![デジタル採点デモ](https://github.com/kyoko-toro/kyoko-toro/assets/119264603/d0953b34-65df-4a99-9ca7-0c3254eba4cb)
   
 &nbsp; About installed functions
   * Initial setting
