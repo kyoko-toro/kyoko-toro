@@ -26,7 +26,7 @@ Items stored in the local environment
   * I made a software to browse the formula collection. However, it is incomplete due to the large amount of images.
 
 Items currently under construction  
-* Digital scoring software with minimal functions
+* Digital scoring software with minimal functions  
   [demo image]  
  ![デジタル採点デモ](https://github.com/kyoko-toro/kyoko-toro/assets/119264603/d0953b34-65df-4a99-9ca7-0c3254eba4cb)
   
