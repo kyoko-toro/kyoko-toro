@@ -23,6 +23,7 @@ Items stored in my public repository
 Items stored in the local environment  
 * Created to improve work efficiency at previous job  
   * I created a piece of software that converts documents stored on paper to PDF and adds a little search engine code to simplify browsing the documents.
+    ![資料閲覧デモ](https://github.com/kyoko-toro/kyoko-toro/assets/119264603/c2432c91-be3f-4e1e-a95a-9f6eaaa73841)  
   * I made a software to browse the formula collection. However, it is incomplete due to the large amount of images.
 
 Items currently under construction  
