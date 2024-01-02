@@ -14,7 +14,7 @@ So far I have studied python, kivy and SQLite.
 I am currently studying machine learning.  
 
 ## [About my code]
-Items stored in my public repository  
+Items stored in my public repository  ←(Currently changing to private 2024/01)
 * Calculator created with python and kivy (https://github.com/kyoko-toro/calculator)
 * Image viewer created with python and kivy (https://github.com/kyoko-toro/imageviewer)
 * Extension conversion software created with python, kivy and SQLite (https://github.com/kyoko-toro/extconverter)
