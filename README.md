@@ -14,6 +14,8 @@ So far I have studied python, kivy and SQLite.
 I am currently studying machine learning.  
 
 ## [About my code]
+## I changed the settings from public to private. (2024/04/26)
+
 Items stored in my public repository  ←(Currently changing to private 2024/01)
 * Calculator created with python and kivy (https://github.com/kyoko-toro/calculator)
 * Image viewer created with python and kivy (https://github.com/kyoko-toro/imageviewer)
